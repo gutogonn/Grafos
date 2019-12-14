@@ -1,0 +1,7 @@
+
+*.meta
+Temp/
+Library/metadata/
+Library/StateCache/
+Library/ScriptAssemblies/
+/Library/EditorInstance.json
