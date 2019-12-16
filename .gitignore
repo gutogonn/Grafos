@@ -1,7 +1,15 @@
-
 *.meta
 Temp/
+Library/assetDatabase3/
 Library/metadata/
 Library/StateCache/
 Library/ScriptAssemblies/
-/Library/EditorInstance.json
+Logs/
+Packages/
+/Assets/Presets
+/Assets/Settings
+/Library/PackageCache/
+/Library/Collab
+/Library/ShaderCache/
+/.vs/card-game/v16
+/obj/Debug
